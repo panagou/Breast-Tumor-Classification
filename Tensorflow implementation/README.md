@@ -17,9 +17,12 @@ Since the 50% Drop Rate model seemed to respond well, we continued training it f
 
 ![Screenshot_2](https://user-images.githubusercontent.com/61820986/175616452-1522cb68-736b-4ad1-9f9e-7e6e5dd12a26.png)
 
-We can see that the extra training slightly improved the model. Now we are ready to test the models on our holdout set. We tested the 50% drop rate model before and after the extra training as well as the 10% drop rate model.
+We can see that the extra training slightly improved the model but not by much. Now we are ready to test the models on our holdout set. We tested the 50% drop rate model before and after the extra training as well as the 10% drop rate model.
 
 ![Screenshot_2](https://user-images.githubusercontent.com/61820986/175645026-947047b0-7fe6-4d61-a21f-bdeec1620efe.png)
 
 ![Screenshot_3](https://user-images.githubusercontent.com/61820986/175644985-da41f7ac-1c89-41ac-9cf3-4ed2750dd4e1.png)
 
+Here we see that the ROC curves of the two 50% models are almost identical, as well as the AUC score. That largly depends on the way we chose the Holddout Set as well as the images that it contains. Maybe if we added more ultrasound images of Malignant tumors the results would differ.
+
+Nonetheless, we can conlude that the three CNNs models we tested are fairly accurate. The 50% drop rate models scored an AUC value of 96.6% and a True Negative Rate value of 73.85% while maintaining a 0% False Negative Rate. Although less accurate than the Logistic Regression and the XGBClassifier, they are more accurate than the rest of the Classifiers we implemented.
