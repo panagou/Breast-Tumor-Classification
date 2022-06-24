@@ -10,3 +10,7 @@ Firstly, we imported the images and made a trainig set (402 images of tumor mask
 
 
 Since the 50% Drop Rate model seemed to respond well, we continued training it for another 100 epochs using Tensorflow's [ModelCheckpoint](https://www.tensorflow.org/api_docs/python/tf/keras/callbacks/ModelCheckpoint?version=nightly) and [EarlyStopping](https://www.tensorflow.org/api_docs/python/tf/keras/callbacks/EarlyStopping) Callbacks. The trainig stopped after 15 epochs since the validation loss could not be improved any further.
+
+![Screenshot_4](https://user-images.githubusercontent.com/61820986/175616039-f21a3880-a08f-4a11-b478-d884991ff7b5.png)
+
+![Screenshot_5](https://user-images.githubusercontent.com/61820986/175616262-c2074cb7-e0a8-44ab-8787-8958b730b0eb.png)
