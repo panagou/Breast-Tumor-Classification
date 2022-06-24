@@ -21,7 +21,10 @@ We can see that the extra training slightly improved the model but not by much. 
 
 ![Screenshot_2](https://user-images.githubusercontent.com/61820986/175645026-947047b0-7fe6-4d61-a21f-bdeec1620efe.png)
 
-![Screenshot_3](https://user-images.githubusercontent.com/61820986/175644985-da41f7ac-1c89-41ac-9cf3-4ed2750dd4e1.png)
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300](https://user-images.githubusercontent.com/61820986/175644985-da41f7ac-1c89-41ac-9cf3-4ed2750dd4e1.png">
+</p>
+
 
 Here we see that the ROC curves of the two 50% models are almost identical, as well as the AUC score. That largly depends on the way we chose the Holddout Set as well as the images that it contains. Maybe if we added more ultrasound images of Malignant tumors the results would differ.
 
