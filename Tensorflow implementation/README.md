@@ -4,4 +4,5 @@ Using Tensorflow we tried to create a Convolutional Neural Network that could cl
 
 Firstly, we imported the images and made a trainig set (402 images of tumor masks, 201 of each type) and a holdout set (10 masks of malignant tumors and 65 masks of benign tumors). We tried a lot of models but generally models with four 2D-Convolutional layers and a 16 node dense layer right before the output single node layer seemed to perform the best. Moreover, we added Dropout layers with 50% drop rate since anything less than that caused overfit.
 
-![Screenshot_2](https://user-images.githubusercontent.com/61820986/175609799-fb595ecc-7464-4fb2-a350-651d7442894f.png)
+
+![Screenshot_2](https://user-images.githubusercontent.com/61820986/175609986-60fe707b-4e7c-4151-8919-78d6f82627a8.png)
