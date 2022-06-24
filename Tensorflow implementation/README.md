@@ -22,7 +22,8 @@ We can see that the extra training slightly improved the model but not by much. 
 
 <p align="center">
   <img  src="https://user-images.githubusercontent.com/61820986/175645026-947047b0-7fe6-4d61-a21f-bdeec1620efe.png">
-  <hr>
+  <br>
+  <br>
   <img  src="https://user-images.githubusercontent.com/61820986/175644985-da41f7ac-1c89-41ac-9cf3-4ed2750dd4e1.png">
 </p>
 
