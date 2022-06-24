@@ -19,9 +19,10 @@ Since the 50% Drop Rate model seemed to respond well, we continued training it f
 
 We can see that the extra training slightly improved the model but not by much. Now we are ready to test the models on our holdout set. We tested the 50% drop rate model before and after the extra training as well as the 10% drop rate model.
 
-![Screenshot_2](https://user-images.githubusercontent.com/61820986/175645026-947047b0-7fe6-4d61-a21f-bdeec1620efe.png)
 
 <p align="center">
+  <img  src="https://user-images.githubusercontent.com/61820986/175645026-947047b0-7fe6-4d61-a21f-bdeec1620efe.png">
+  <br>
   <img  src="https://user-images.githubusercontent.com/61820986/175644985-da41f7ac-1c89-41ac-9cf3-4ed2750dd4e1.png">
 </p>
 
