@@ -13,4 +13,4 @@ Since the 50% Drop Rate model seemed to respond well, we continued training it f
 
 ![Screenshot_4](https://user-images.githubusercontent.com/61820986/175616039-f21a3880-a08f-4a11-b478-d884991ff7b5.png)
 
-![Screenshot_5](https://user-images.githubusercontent.com/61820986/175616262-c2074cb7-e0a8-44ab-8787-8958b730b0eb.png)
+![Screenshot_2](https://user-images.githubusercontent.com/61820986/175616452-1522cb68-736b-4ad1-9f9e-7e6e5dd12a26.png)
